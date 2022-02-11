@@ -1,6 +1,6 @@
 # Pioneer
 
-[Screenshot](rob-lowcock.github.com/pioneer/site/screenshot.png)
+![Screenshot](https://rob-lowcock.github.io/pioneer/site/screenshot.png)
 
 Pioneer is a retro board for running team retrospectives. There are 2 components:
 
